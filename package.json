@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LeonardoRusso/Second-Webpage/issues"
   },
-  "homepage": "https://github.com/LeonardoRusso/Second-Webpage#readme"
+  "homepage": "https://github.com/LeonardoRusso/Second-Webpage#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
