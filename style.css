@@ -441,6 +441,7 @@ input[value="SUBMIT"] {
   src: url(/fonts/WorkSans-VariableFont_wght.ttf);
   font-size: 12px;
   font-weight: 700;
+  color: white;
 }
 .font2black {
   font-family: "Work Sans", sans-serif;
@@ -466,6 +467,7 @@ input[value="SUBMIT"] {
   src: url(/fonts/WorkSans-VariableFont_wght.ttf);
   font-size: 16px;
   font-weight: 100;
+  color: white;
 }
 
 button {
