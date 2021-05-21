@@ -3,6 +3,10 @@
 border: 2px solid red; 
 */
 
+html {
+  background-color: rgb(220, 220, 220);
+}
+
 .FirstContainer {
   width: 100rem;
   height: 670px;
@@ -435,6 +439,7 @@ input[value="SUBMIT"] {
   font-family: "Work Sans", sans-serif;
   src: url(/fonts/WorkSans-VariableFont_wght.ttf);
   font-size: 30px;
+  color: white;
 }
 .font2 {
   font-family: "Work Sans", sans-serif;
