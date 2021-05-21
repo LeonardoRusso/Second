@@ -8,6 +8,10 @@ html {
   color: white;
 }
 
+body {
+  box-shadow: 2px 2px 2px black;
+}
+
 .FirstContainer {
   width: 100rem;
   height: 670px;
